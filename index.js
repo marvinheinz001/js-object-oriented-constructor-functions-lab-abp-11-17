@@ -1,4 +1,3 @@
-function Scuber(){
-  
-}
+function Scuber(a, b, c ){
 
+}
