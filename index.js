@@ -1,3 +1,6 @@
-function Scuber(a, b, c ){
-
+function Scuber(year, color,model ){
+  this.year = year;
+  this.color = color;
+  this.model = model;
+  
 }
